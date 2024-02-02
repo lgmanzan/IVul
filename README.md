@@ -12,7 +12,7 @@ Files are the following, though in some cases the compress version is provided d
 
 -There are 2 folders (PHP/CSHARP baseline) containing generated images per each programming language used in baseline computations
 
--There are 2 folders (PHP/CSHARP attacks) containing generated images per each programming language used in attacks computations
+-There are 2 folders (PHP/CSHARP attacks) containing generated images per each programming language used in attacks computations. Folders within these contain subfolders with the following pattern name: Poison<attack>[<%spaces 100=full and none=20>]<%poison>. For instance, PoisonDI10
 
 -'Code_image_generation_GitHub.py' is the general script used to generate images from code samples.
 
