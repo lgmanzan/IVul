@@ -6,7 +6,7 @@ Lorena González-Manzano and Joaquin Garcia-Alfaro
 
 This repository contains used data (namely computed code metrics and tokens) and complete results of the paper "Image-based vulnerability detection under backdoor attack. Lorena González-Manzano and Joaquin Garcia-Alfaro (submitted for evaluation)".
 
-Files are the following:
+Files are the following, though in some cases the compress version is provided due to size limitation:
 
 -There are 2 .xlsx files (resultsGitHubCSHARP/ resultsGitHubPHP) which contain baseline results of the use of IVul and results per proposed threat model after executed attacks. 
 
