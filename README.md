@@ -16,5 +16,5 @@ Files are the following:
 
 -'Code_image_generation_GitHub.py' is the general script used to generate images from code samples.
 
--php/csharpSamples.csv contain code samples. In particular, per code samples the following information is provided: identifier, state that is bad(vulnerable) or good (no vulnerable), submissionDateYear,submissionDateMonth,submissionDay and CWE
+-php/csharpSamples.csv contain code samples. In particular, per code samples the following information is provided: identifier, state that is bad(vulnerable) or good (no vulnerable), submissionDateYear,submissionDateMonth,submissionDay, CWE and code
 
