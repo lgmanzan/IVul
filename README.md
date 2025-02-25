@@ -8,7 +8,7 @@ This repository contains used data (namely computed code metrics and tokens) and
 
 Files are the following, though in some cases the compress version is provided due to size limitation:
 
--There are 2 .xlsx files (resultsGitHubCSHARP/ resultsGitHubPHP) which contain baseline results of the use of IVul and results per proposed threat model after executed attacks. 
+-There are 2 .xlsx files (resultsGitHubCSHARP/resultsGitHubPHP) which contain baseline results of the use of IVul and results per proposed threat model after executed attacks. 
 
 -There are 2 folders (PHP/CSHARP baseline) containing generated images per each programming language used in baseline computations
 
