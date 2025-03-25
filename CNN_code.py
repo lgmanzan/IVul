@@ -1,5 +1,8 @@
-
-#CNN code
+#*************+
+#CNN generation code
+#
+#Lorena González-Manzano and Joaquin Garcia-Alfaro 
+#*********************************************+
 model = Sequential()
 model.add(Conv2D(32,3,padding="same", activation="relu", input_shape=(224,224,1)))
 model.add(MaxPool2D())
